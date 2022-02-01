@@ -5,6 +5,6 @@ The main purpose of this project is to give an insight on Iowa's alcohol market 
 
 2. For 2019, what were the highlights: top 5 popular brands of alcohol as a seasonal decision maker for, total sales based on counties and, total consumed alcohol- based on counties?  
 
-3. What are the main predicting factors of sales that will benefit the both sides?
+3. What are the main predicting factors of sales that will benefit both sides?
 
 This project is a colobrated effort of Yashaswini Thokala, Rubina Pradhan and Nehemie Joseph.
